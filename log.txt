@@ -1,0 +1,45 @@
+********************************************
+Lista: Robots Spam o Spiders Blokeados por
+Name: Script "Anti-Robot" Web (Downloader)
+URL: https://miapk.app/
+SCRIPT: ANTI-ROBOTS
+Si un IP esta Aqui Fue un Robot
+********************************************
+********************************************
+IP Address Local: 10.1.8.9
+ISP Web: 108.161.168.53
+Hos Local: taco-PC
+Date: 08/04/2021 20:14:11
+Port Number: 50778
+Operating System: Windows 7
+User Agent: Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.109 Safari/537.36
+HTTP Referer: 
+Physical Mac: 00-16-B6-53-B3-82
+Subnet Mask:   255.255.255.255       ff-ff-ff-ff-ff-ff     static
+WIRELESS Mac: 
+Interface: 10.1.8.4 --- 0xf
+  Internet Address      Physical Address      Type
+  10.1.8.1              ac-84-c6-8b-d3-95     dynamic   
+  10.1.8.2              48-60-5f-56-17-41     dynamic   
+  10.1.8.11             ec-f0-0e-19-8c-7k     dynamic   
+  10.1.8.255            ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fb     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+*****************************************************
+IP Address Local: 54.145.90.209
+ISP Web: 162.241.62.137
+Hos Local: ec2-54-145-90-209.compute-1.amazonaws.com
+Date: 08/04/2021 20:41:21
+Port Number: 44226
+Operating System: Windows NT 4.0
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 OPR/51.0.2830.34
+HTTP Referer: https://www.google.com/
+Physical Mac: 
+Subnet Mask: 
+WIRELESS Mac: 
+*****************************************************

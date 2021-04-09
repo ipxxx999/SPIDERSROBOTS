@@ -1,0 +1,13 @@
+********************************************
+Lista: Robots Spam o Spiders Blokeados por
+Name: Script "Anti-Robot" Web (Downloader)
+URL: https://miapk.app/
+SCRIPT: ANTI-ROBOTS
+Si un IP esta Aqui Fue un Robot
+********************************************
+********************************************
+Host: 54.145.90.209
+ec2-54-145-90-209.compute-1.amazonaws.com
+2021-04-08 (Thu) 20:41:21
+1462143
+********************************************
