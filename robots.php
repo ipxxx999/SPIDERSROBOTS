@@ -1,4 +1,4 @@
-﻿<?php
+<?php
     $ip = $_SERVER['REMOTE_ADDR'];
     $fullhost = gethostbyaddr($ip);
     $host = preg_replace("/^[^.]+./", "*.", $fullhost);
@@ -373,12 +373,12 @@ $remote = $fullhost = gethostbyaddr($ip);
 // CONSTRUCION EL MENSAJE DE CORREO ELECTR�NICO
 
 $subject = 'Ticket# ANTI-ROBOTS-Bad ';
-$email = 'boot@miapk.app'; //edit accordingly - Modificar en consecuencia su mail
+$email = 'tutovideo2000@gmail.com'; //edit accordingly - Modificar en consecuencia su mail
 $tmestamp = time();
 	// Zona horaria del servidor
 	date_default_timezone_set("America/New_York");
 $datum = date("Y-m-d (D) H:i:s",$tmestamp);
-$from = "boot@miapk.app";
+$from = "info@miapk.org";
 $first_name = "ROBOTS-Bad";
 $to = $email;
 $message ='ip: ' . $ip . "\r\n" .
